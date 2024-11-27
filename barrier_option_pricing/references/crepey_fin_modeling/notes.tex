@@ -8,7 +8,6 @@
 \usepackage{cite}
 \usepackage{mathtools}
 \usepackage{natbib}
-\usepackage{float}
 \usepackage{subcaption}
 \usepackage{caption}
 \usepackage{tcolorbox}
@@ -21,7 +20,6 @@
 \usepackage{multirow}
 \usepackage{color}
 \usepackage{xspace}
-\usepackage{mathtools}
 \usepackage{setspace}
 \usepackage{multicol}
 \usepackage{verbatim}
@@ -47,8 +45,8 @@ Follows from Exercise 1.3.12
 
 \textbf{Exercise 1.3.12}
 
-$\mathds{1}_{\{\min(\nu, \theta)\}} = (1 - \mathds{1}_{\{\nu < n\}}) \cdot (1 - \mathds{1}_{\{\theta < n\}}) \cdot (\mathds{1}_{\{\nu = n\}} + \mathds{1}_{\{\theta = n\}} - \mathds{1}_{\{\nu = n\}} \cdot \mathds{1}_{\{\theta = n\}})$
+$\mathds{1}_{\{\min(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \geq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu > n\}}$
 
-$\mathds{1}_{\{\max(\nu, \theta)\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \leq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu \leq n\}}$
+$\mathds{1}_{\{\max(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \leq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu < n\}}$
 
 \end{document}
