@@ -27,6 +27,7 @@
 \usepackage{matlab-prettifier}
 \usepackage{float}
 \usepackage{enumitem}
+\usepackage{dsfont}
 \usepackage[indent]{parskip}
 
 \title{Stéphane Crépey, Financial Modeling: A Backward Stochastic 
@@ -45,8 +46,13 @@ Follows from Exercise 1.3.12
 
 \textbf{Exercise 1.3.12}
 
-$\mathds{1}_{\{\min(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \geq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu > n\}}$
+$\mathds{1}_{\{\min(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \geq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu > n\}}$.
 
-$\mathds{1}_{\{\max(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \leq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu < n\}}$
+$\mathds{1}_{\{\max(\nu, \theta) = n\}} = \mathds{1}_{\{\nu = n\}}\cdot \mathds{1}_{\{\theta \leq n\}} + \mathds{1}_{\{\theta = n\}}\cdot \mathds{1}_{\{\nu < n\}}$.
+
+\textbf{Exercise 1.3.18}
+
+No. Let $X_n \equiv 1$ for all $n$, then $S_n = n$. Fix $\epsilon_0 = 1/2$. Given $\delta > 0$, there exists $n_0 \in \mathds{N}$ such that $n_0\delta \geq 1$. Pick $A \in \Omega$ (Maybe not always possible?) such that $\delta/2 \leq \mathds{P}(A) < \delta$ and we have $\mathds{E}(|S_n|\mathds{1}_A) = n\mathds{P}(A) \geq n\delta/2 \geq 1/2 = \epsilon_0$.
+
 
 \end{document}

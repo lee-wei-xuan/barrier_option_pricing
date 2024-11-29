@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.6)  27 NOV 2024 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.6)  29 NOV 2024 00:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -683,24 +683,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./notes.aux)
 \openout1 = `notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  (c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -712,7 +712,7 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 38.
  (./notes.out) (./notes.out)
 \@outlinefile=\write5
 \openout5 = `notes.out'.
@@ -720,19 +720,19 @@ Package hyperref Info: Link coloring OFF on input line 37.
 \c@lstlisting=\count361
 
 Couldn't patch \deferred@thm@head!
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 (c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
  (c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+esint on input line 39.
+LaTeX Font Info:    Trying to load font information for U+esint on input line 40.
  (c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for U+dsrom on input line 48.
+LaTeX Font Info:    Trying to load font information for U+dsrom on input line 49.
  (c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/doublestroke/Udsrom.fd
 File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 )
@@ -750,16 +750,16 @@ Package rerunfilecheck Info: File `notes.out' has not changed.
 Here is how much of TeX's memory you used:
  27016 strings out of 475322
  516727 string characters out of 5768592
- 869025 words of memory out of 5000000
+ 871025 words of memory out of 5000000
  49449 multiletter control sequences out of 15000+600000
  566609 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  98i,6n,107p,655b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/doublestroke/dsrom12.pfb>
-Output written on notes.pdf (1 page, 78241 bytes).
+<c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/leewe/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/doublestroke/dsrom12.pfb>
+Output written on notes.pdf (1 page, 93772 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
