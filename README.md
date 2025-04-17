@@ -5,14 +5,14 @@ This is a [UROPS](https://www.science.nus.edu.sg/undergraduates/undergraduate-re
  Barrier options are path-dependent exotic derivatives similar to vanilla options, 
  but are only activated or deactivated once the price of the underlying asset
  reaches a certain level, which is called the barrier. For this project, we first
- derive the formula for the theoretical price of a barrier option exercised in the
- European style. Next, we shall try to price the barrier option using Monte Carlo
- simulations and compare the simulated price to the theoretical price. However,
+ **derive the formula for the theoretical price** of a barrier option exercised in the
+ European style. Next, we shall try to **price the barrier option using Monte Carlo
+ simulations** and compare the simulated price to the theoretical price. However,
  when it comes to out-of-the-money barrier options, the likelihood of hitting the
  barrier is low, and thus, most simulations do not contribute meaningful information. 
- This is computationally inefficient. Therefore, importance sampling
- is applied to alter the probability distribution of the underlying asset’s price
- path to increase the probability of the option’s barrier being hit, reducing the variance and improving the simulation's accuracy.
+ This is computationally inefficient. Therefore, **importance sampling
+ is applied** to alter the probability distribution of the underlying asset’s price
+ path **to increase the probability of the option’s barrier being hit**, reducing the variance and improving the simulation's accuracy.
 
 My thesis can be found at [Thesis-Importance_Sampling.pdf](https://github.com/lee-wei-xuan/barrier_option_pricing/blob/main/Thesis-Importance_Sampling.pdf).
 
