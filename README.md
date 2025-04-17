@@ -7,7 +7,7 @@ This is a [UROPS](https://www.science.nus.edu.sg/undergraduates/undergraduate-re
  reaches a certain level, which is called the barrier. For this project, I have done the following:
 
  1. **Derive the formula for the theoretical price** of a down-and-in barrier call option exercised in the European style.
- 2. **Price the barrier option using Monte Carlo simulations** and compare the simulated price to the theoretical price. However,
+ 2. **Price the barrier option using Monte Carlo simulations** and compare the simulated price to the theoretical price.
  3. **Apply importance sampling when doing simulations** to alter the probability distribution of the underlying asset’s price
  path **to increase the probability of the option’s barrier being hit**, reducing the variance and improving the simulation's accuracy.
 
